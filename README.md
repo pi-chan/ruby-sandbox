@@ -1,1 +1,1 @@
-Sample applications using Ruby on Rails.
+Sample applications using Ruby.
