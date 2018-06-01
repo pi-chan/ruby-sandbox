@@ -1,5 +1,3 @@
 Sample applications using Ruby.
 
-テストテスト
-
-テストテスト
+add new line
